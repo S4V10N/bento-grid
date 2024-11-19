@@ -1,0 +1,21 @@
+@import url(https://fonts.google.com/specimen/DM+Sans);
+
+*{
+    padding: 0rem;
+    margin: 0rem;
+    box-sizing: border-box;
+}
+
+:root{
+    --LIGHTPURPLE: hsl(254, 88%, 90%);
+    --DARKPURPLE:  hsl(256, 67%, 59%);
+
+    --LIGHTYELLOW: hsl(31, 66%, 93%);
+    --DARKYELLOW:  hsl(39, 100%, 71%);
+
+    --WHITE: hsl(0, 0%, 100%);
+    --DARK: hsl(0, 0%, 7%);
+
+    --FONTWEIGHT-LIGHT: 400;
+    --FONTWEIGHT-BOLD: 500;
+}
