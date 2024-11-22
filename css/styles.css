@@ -24,6 +24,10 @@ html{
     font-size: 1.4rem;
     padding: 0rem 0.8rem;
 }
+body{
+    display: flex;
+    flex-direction: column;
+}
 h1{
     text-align: center;
     color: var(--WHITE);
@@ -209,4 +213,15 @@ h2{
 }
 .footer img{
     height: 40%;
+}
+
+@media (min-width: 500px) {
+    .box,.box1,.box2,.box3,.box4,.box5,.box6,.box7{
+        border-radius: 3%;
+    }
+}
+@media (min-width: 700px) {
+    .box,.box1,.box2,.box3,.box4,.box5,.box6,.box7{
+        border-radius: 4%;
+    }
 }
