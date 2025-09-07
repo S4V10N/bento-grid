@@ -100,7 +100,7 @@ h1{
 
 .box2 img{
     width: 20rem;
-    transform: translateY(0.3rem);
+    transform: translateY(0.5rem);
 }
 
 .big1{
@@ -159,7 +159,7 @@ h1{
     font-size: 3.5rem;
     line-height: 1em;
     width: 26rem;
-    font-weight: var(--FONTWEIGHT-BOLD);
+    font-weight: bold;
 }
 .box5{
     background-color:  var(--WHITE);
@@ -189,7 +189,6 @@ h2{
     font-size: 3rem;
     line-height: 0.9em;
     font-weight: 500;
-    font-weight: var(--FONTWEIGHT-BOLD);
 }
 .purple{
     color: var(--DARKPURPLE);
